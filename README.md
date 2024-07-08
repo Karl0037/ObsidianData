@@ -1,0 +1,2 @@
+# ObsidianData
+ObsidianData
